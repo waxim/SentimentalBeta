@@ -1,0 +1,14 @@
+html {
+    overflow-x: hidden;
+}
+
+body {
+    background: linear-gradient(180deg, rgba(105,220,158,1) 0%, rgba(0,0,0,0) 100%), url('./images/background.png') center bottom;
+    height: 100%;
+    font-family: 'Karla', sans-serif;
+}
+
+.image {
+    width: 800px;
+    margin-top: 5%;
+}
